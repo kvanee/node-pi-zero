@@ -336,6 +336,12 @@ $ wget -O - https://raw.githubusercontent.com/sdesalas/node-pi-zero/master/insta
 $ wget -O - https://raw.githubusercontent.com/sdesalas/node-pi-zero/master/install-node-v16.3.0.sh | bash
 ```
 
+## Latest
+
+```sh
+$ wget -O - https://raw.githubusercontent.com/sdesalas/node-pi-zero/master/install-node.sh | bash
+```
+
 ## Using global npm modules? (ie mocha, eslint, etc)
 
 Add the following to the end of your `~/.profile` file:
